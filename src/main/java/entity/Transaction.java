@@ -1,3 +1,5 @@
+package entity;
+
 public class Transaction {
 
     //{"PLASTIC_ID":96349208, "UDATE":20200729, "TIME":132725, "ATMID":"99999999", "TERMINAL_TYPE":8}

@@ -1,3 +1,6 @@
+package serdes;
+
+import entity.Transaction;
 import org.apache.kafka.common.serialization.Deserializer;
 import org.apache.kafka.common.serialization.Serializer;
 import org.apache.kafka.common.serialization.StringDeserializer;
